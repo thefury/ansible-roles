@@ -1,0 +1,6 @@
+---
+
+hashed_deploy_password: $1$BeefSalt$YD8I.RwykDaCITHAJFvJS0
+hashed_root_password: $1$SaltBeef$i8BdXEutvaTHLmQazpb011
+sshd_port: 5432
+key_location: /home/trevor/.ssh/id_rsa.pub
